@@ -1,5 +1,6 @@
 # DemoSite1_BurningMan
-The site that was created as a result of the work on the guides
+The site that was created as a result of the work on the guides.
 
+<b>html/css/js</b>
 
-html/css/js
+<h2>View site: https://yrdream.github.io/DemoSite_BurningMan/index.html</h2>
