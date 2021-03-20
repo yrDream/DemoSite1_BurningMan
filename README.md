@@ -3,4 +3,4 @@ The site that was created as a result of the work on the guides.
 
 <b>html/css/js</b>
 
-<h2>View site: https://yrdream.github.io/DemoSite_BurningMan/index.html</h2>
+<h2>View site: https://yrdream.github.io/DemoSite_BurningManl</h2>
